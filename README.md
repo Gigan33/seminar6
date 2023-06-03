@@ -8,7 +8,7 @@ git clone https://github.com/Gigan33/seminar6
 
 Building the Project with CMake
 
-1)Navigate to the root directory of the project: cd my_lab_6
+1)Navigate to the root directory of the project: cd seminar6
 
 2)Create a "build" directory: mkdir build
 
