@@ -1,0 +1,11 @@
+# ninja log v5
+3	155	7075013446788512	CMakeFiles/lab6.dir/main.c.obj	a65de954ee48eb00
+208	426	7075013449440018	lab6.exe	712ac718b6a5fb3
+9	165	7075013446870697	CMakeFiles/lab6.dir/swap_macros.c.obj	9fe171c6e5c1920c
+4	158	7068799474933013	CMakeFiles/lab6.dir/binsearch.c.obj	9be509ee40786d9f
+2	342	7075014858353381	build.ninja	44195feda8782244
+62	739	7074998564354201	CMakeFiles/lab6.dir/quicksort.c.obj	e73941f9a0cd83cc
+19	207	7075013447331895	CMakeFiles/lab6.dir/radix.Sort.c.obj	a66cde6221872a81
+17	236	7075020653125559	CMakeFiles/lab6.dir/mergeSort.c.obj	deb252627b25d7a0
+5	245	7075020653196746	CMakeFiles/lab6.dir/main.c.obj	a65de954ee48eb00
+246	528	7075020655886140	lab6.exe	7a1f6c42218fcf39
